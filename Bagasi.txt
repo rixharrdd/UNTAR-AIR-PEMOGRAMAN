@@ -1,0 +1,4 @@
+T Tanpa_Bagasi 0
+A 0-5_kg 100000
+B Lebih_5-10_kg 175000
+C Lebih_10-20_kg 300000
